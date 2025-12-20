@@ -1,2 +1,2 @@
 # liwei-plate
-liwei-plate web -dist 
+liwei-plate web
